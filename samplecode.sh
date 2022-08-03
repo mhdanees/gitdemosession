@@ -1,1 +1,1 @@
-echo "welcome to git project"
+echo "welcome to git demo session"
